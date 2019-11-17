@@ -1,0 +1,7 @@
+*.swp
+*test*
+private/
+*.pyc
+files/jobber/build
+files/jobber/dist
+files/jobber/anerist.egg-info
